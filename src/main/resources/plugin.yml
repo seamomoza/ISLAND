@@ -1,0 +1,8 @@
+name: Island
+version: '1.0-SNAPSHOT'
+main: org.kotlin.island.Island
+api-version: '1.21'
+commands:
+  isl:
+    description: 날씨를 랜덤으로 변경하는 명령어
+    usage: /<command> weather
